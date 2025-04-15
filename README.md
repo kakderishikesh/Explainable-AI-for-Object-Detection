@@ -81,7 +81,7 @@ Each model was visualized using both techniques, revealing differences in focus 
 - **Ritika Shrivastava**  
 - **Saransh Singh**  
 
-> [Read the full final report here.](./Final_Report.pdf)
+> [Read the full final report here.]((https://github.com/kakderishikesh/Explainable-AI-for-Object-Detection/blob/main/Final%20Report.pdf))
 
 ---
 
