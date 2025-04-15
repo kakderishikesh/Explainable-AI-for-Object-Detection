@@ -81,7 +81,7 @@ Each model was visualized using both techniques, revealing differences in focus 
 - **Ritika Shrivastava**  
 - **Saransh Singh**  
 
-> [Read the full final report here.](./final_report.pdf)
+> [Read the full final report here.](./Final_Report.pdf)
 
 ---
 
